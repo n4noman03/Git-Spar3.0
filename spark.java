@@ -7,4 +7,8 @@ class Spark{
     public void m1(){
         System.out.println("m1");        
     }
+
+    public void payment(){
+        System.out.println("hello user");
+    }
 }   
